@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "CommonJS",
+    "sourceMap": false,
+    "noImplicitAny": true,
+    "moduleResolution": "Node",
+    "experimentalDecorators": true,
+    "rootDir": "src",
+    "outDir": "dist",
+    "baseUrl": "./",
+    "esModuleInterop": true,
+    "declaration": true,
+    "declarationDir": "dist",
+    "removeComments": true
+  }
+}

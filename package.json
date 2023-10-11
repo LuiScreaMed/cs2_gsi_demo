@@ -1,0 +1,29 @@
+{
+  "name": "cs2_gsi_demo",
+  "version": "1.0.0",
+  "description": "cs2 game state integration demo written in typescript",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuiScreaMed/cs2_gsi_demo.git"
+  },
+  "keywords": [
+    "cs",
+    "cs2",
+    "gsi",
+    "typescript"
+  ],
+  "author": "LuiScreaMed",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuiScreaMed/cs2_gsi_demo/issues"
+  },
+  "homepage": "https://github.com/LuiScreaMed/cs2_gsi_demo#readme",
+  "devDependencies": {
+    "@types/node": "^20.8.4"
+  }
+}

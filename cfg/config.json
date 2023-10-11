@@ -1,0 +1,5 @@
+{
+    "$schema": "config.schema.json",
+    "gsi_name": "custom_cs2_gsi",
+    "port": 3003
+}
